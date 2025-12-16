@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\lzr\documents\visual studio 2017\projects\第五题\第五题\main.c(24): warning C4013: “system”未定义；假设外部返回 int
+c:\users\lzr\documents\visual studio 2017\projects\第五题\第五题\main.c(16): warning C4715: “A”: 不是所有的控件路径都返回值
+  第五题.vcxproj -> c:\users\lzr\documents\visual studio 2017\Projects\第五题\Debug\第五题.exe
+  第五题.vcxproj -> c:\users\lzr\documents\visual studio 2017\Projects\第五题\Debug\第五题.pdb (Partial PDB)

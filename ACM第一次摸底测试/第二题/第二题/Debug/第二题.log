@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\lzr\documents\visual studio 2017\projects\第二题\第二题\main.c(31): warning C4013: “system”未定义；假设外部返回 int
+  第二题.vcxproj -> c:\users\lzr\documents\visual studio 2017\Projects\第二题\Debug\第二题.exe
+  第二题.vcxproj -> c:\users\lzr\documents\visual studio 2017\Projects\第二题\Debug\第二题.pdb (Partial PDB)
