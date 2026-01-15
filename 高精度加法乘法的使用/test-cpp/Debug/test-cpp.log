@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\lzr\documents\visual studio 2017\projects\test-cpp\test-cpp\main.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lzr\documents\visual studio 2017\projects\test-cpp\test-cpp\main.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+  test-cpp.vcxproj -> C:\Users\lzr\documents\visual studio 2017\Projects\test-cpp\Debug\test-cpp.exe
+  test-cpp.vcxproj -> C:\Users\lzr\documents\visual studio 2017\Projects\test-cpp\Debug\test-cpp.pdb (Partial PDB)
